@@ -1,3 +1,7 @@
  first commit
 friend commit
+
 merfe conflict 1
+
+merge conflict
+
